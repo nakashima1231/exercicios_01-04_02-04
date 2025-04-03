@@ -12,22 +12,22 @@ int main() {
     printf("linha 4: ");
     scanf("%d", &n4);
     
-    for(int i = 0; n1 >= i; n1--) {
+    for(int i = 1; n1 >= i; n1--) {
         printf("*");
     }
     printf("\n");
     
-    for(int i = 0; n2 >= i; n2--) {
+    for(int i = 1; n2 >= i; n2--) {
         printf("*");
     }
     printf("\n");
     
-    for(int i = 0; n3 >= i; n3--) {
+    for(int i = 1; n3 >= i; n3--) {
         printf("*");
     }
     printf("\n");
     
-    for(int i = 0; n4 >= i; n4--) {
+    for(int i = 1; n4 >= i; n4--) {
         printf("*");
     }
     printf("\n");
